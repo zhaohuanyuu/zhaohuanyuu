@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&hide_title=true" alt="auu's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private_true" alt="auu's github stats" />
 
 <div style="width:45%">
   <p>I'm a frontend developer.</p>
