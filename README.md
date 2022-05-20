@@ -10,6 +10,10 @@ I'm a frontend developer.
 
 Determined to open source, interested in engineering, graphics, frameworks...
 
+Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,node,rust)](https://skillicons.dev)
+
 <!--START_SECTION:waka-->
 
 ```text
