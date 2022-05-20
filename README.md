@@ -6,16 +6,16 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu" alt="auu's github stats" />
 
-<code>
-I'm a frontend developer.
-  
-Determined to open source, interested in engineering, graphics, frameworks...
-</code>
+<div style="width:45%">
+  <p>I'm a frontend developer.</p>
+  <p>Determined to open source, interested in engineering, graphics, frameworks...</p>
+</div>
 
 **Languages and Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,vue)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gatsby,materialui,graphql,nestjs,flutter)](https://skillicons.dev)
+<p style="width:50%">
+  <img height="20" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,gatsby,materialui,graphql,nestjs,electron,flutter" />
+</p>
 
 <!--START_SECTION:waka-->
 
