@@ -3,11 +3,12 @@
 -->
 
 ### Hi there 👋
+
+[![zhaohuanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaohuanyuu)](https://github.com/anuraghazra/github-readme-stats)
+
 I'm a frontend developer.
 
 Determined to open source, interested in engineering, graphics, frameworks...
-
-[![zhaohuanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaohuanyuu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
