@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-[![zhaohuanyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhaohuanyuu)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu" alt="auu's github stats" />
 
 I'm a frontend developer.
 
