@@ -6,3 +6,6 @@
 I'm a frontend developer.
 
 Determined to open source, interested in engineering, graphics, frameworks...
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
