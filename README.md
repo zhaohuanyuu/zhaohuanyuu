@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu" alt="auu's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu" alt="auu's github stats" />
 
 I'm a frontend developer.
 
