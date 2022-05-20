@@ -12,7 +12,7 @@ Determined to open source, interested in engineering, graphics, frameworks...
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,solid,gatsby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,gatsby,materialui)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
 
