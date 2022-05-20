@@ -3,4 +3,5 @@
 -->
 
 ### Hi there 👋
-I'm a frontend developer
+I'm a frontend developer.
+Determined to open source, interested in engineering, graphics, frameworks...
