@@ -27,5 +27,5 @@ MDX   ████████████████████████�
 </p>
 
 #### Latest blog
-* learning typescript
-* learning nestjs
+* [Node项目调试的几种方式](https://zhy.gatsbyjs.io/blog/node-debug)
+* [SSG、CSG、SSR、DSG渲染方式区别和优缺点](https://zhy.gatsbyjs.io/blog/site-rendering)
