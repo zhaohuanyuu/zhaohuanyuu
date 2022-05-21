@@ -13,7 +13,6 @@
 <img align="left" height="20" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,gatsby,materialui,graphql,nestjs,electron,flutter" />
 
 </br>
-</br>
 
 <p align="right">
 <!--START_SECTION:waka-->
