@@ -14,18 +14,14 @@
 
 </br>
 
-<p align="right">
-<!--START_SECTION:waka-->
-
 #### Monthly Time Spend On
+<!--START_SECTION:waka-->
 ```text
 Total Time: 1 hr 16 mins
 
 MDX   █████████████████████████   100.00 %
 ```
-
 <!--END_SECTION:waka-->
-</p>
 
 #### Latest Blog Posts
 * [Node项目调试的几种方式](https://zhy.gatsbyjs.io/blog/node-debug)
