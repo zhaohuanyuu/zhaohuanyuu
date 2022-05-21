@@ -15,8 +15,11 @@
 </br>
 
 #### Latest Blog Posts
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
 * [Node项目调试的几种方式](https://zhy.gatsbyjs.io/blog/node-debug)
 * [SSG、CSG、SSR、DSG渲染方式区别和优缺点](https://zhy.gatsbyjs.io/blog/site-rendering)
+<!-- BLOG-POST-LIST:END -->
 
 #### Monthly Time Spend On
 <!--START_SECTION:waka-->
