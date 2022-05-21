@@ -18,7 +18,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-MDX  █████████████████████████   100.00 %
+Total Time: 1 hr 16 mins
+
+MDX                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
