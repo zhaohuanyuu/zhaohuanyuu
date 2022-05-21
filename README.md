@@ -12,11 +12,10 @@
 
 <img align="left" height="20" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,gatsby,materialui,graphql,nestjs,electron,flutter" />
 
-<p style=width:45%>
+</br>
 <!--START_SECTION:waka-->
 
   ```text
-    MDX   1 hr 16 mins    █████████████████████████   100.00 %
+      MDX   1 hr 16 mins    █████████████████████████   100.00 %
   ```
 <!--END_SECTION:waka-->
-</p>
