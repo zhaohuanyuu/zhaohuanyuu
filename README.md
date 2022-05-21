@@ -6,20 +6,17 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private_true&show_icons=true" alt="auu's github stats" />
 
-<div style="width:45%">
-  <p>I'm a frontend developer.interested in engineering, graphics, frameworks...</p>
-</div>
+<p style="width:45%">I'm a frontend developer.interested in engineering, graphics, frameworks...</p>
 
 **Languages and Tools:**
 
-<p style="width:50%">
-  <img height="20" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,gatsby,materialui,graphql,nestjs,electron,flutter" />
-</p>
+<img align="left" height="20" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,gatsby,materialui,graphql,nestjs,electron,flutter" />
 
+<p style=width:45%>
 <!--START_SECTION:waka-->
 
-```text
-MDX   1 hr 16 mins    █████████████████████████   100.00 %
-```
-
+  ```text
+    MDX   1 hr 16 mins    █████████████████████████   100.00 %
+  ```
 <!--END_SECTION:waka-->
+</p>
