@@ -16,8 +16,9 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-* [Node项目调试的几种方式](https://zhy.gatsbyjs.io/blog/node-debug)
-* [SSG、CSG、SSR、DSG渲染方式区别和优缺点](https://zhy.gatsbyjs.io/blog/site-rendering)
+- [Gatsby With Pnpm](https://zhy.gatsby.io/blog/contents/22-gatsby-pnpm/)
+- [Node项目调试的几种方式](https://zhy.gatsby.io/blog/contents/17-node-debug/)
+- [对前端工具链的理解及学习笔记记录](https://zhy.gatsby.io/blog/contents/17-fe-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Monthly Time Spend On
