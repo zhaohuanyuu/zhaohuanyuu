@@ -8,7 +8,7 @@
 
 <p style="width:45%">I'm a frontend developer.interested in engineering, graphics, frameworks...</p>
 
-**Languages and Tools:**
+### Languages and Tools
 
 <img align="left" height="20" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,gatsby,materialui,graphql,nestjs,electron,flutter" />
 
@@ -25,3 +25,7 @@ MDX   ████████████████████████�
 
 <!--END_SECTION:waka-->
 </p>
+
+### Latest blog
+* learning typescript
+* learning nestjs
