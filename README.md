@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 ≤picture>
-  <source src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true&theme=material-palenight"></source>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true&theme=material-palenight"></source>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true" alt="auu's github stats" />
 </picture>
 
