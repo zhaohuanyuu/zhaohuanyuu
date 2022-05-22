@@ -3,9 +3,10 @@
 -->
 
 ### Hi there 👋
-≤picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true&theme=material-palenight">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true" alt="auu's github stats" />
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true">
 </picture>
 
 <p style="width:45%">I'm a frontend developer.interested in engineering, graphics, frameworks...</p>
@@ -36,8 +37,3 @@ CSS              7 mins          ▒░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true&theme=material-palenight">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true">
-</picture>
