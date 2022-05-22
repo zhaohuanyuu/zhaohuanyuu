@@ -3,8 +3,10 @@
 -->
 
 ### Hi there 👋
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true" alt="auu's github stats" />
+≤picture>
+  <source src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true&theme=material-palenight"></source>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true" alt="auu's github stats" />
+</picture>
 
 <p style="width:45%">I'm a frontend developer.interested in engineering, graphics, frameworks...</p>
 
