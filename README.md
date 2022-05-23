@@ -24,7 +24,7 @@
 - [SSG、CSG、SSR、DSG渲染方式区别和优缺点](https://zhy.gatsbyjs.io/blog/site-rendering)
 <!-- BLOG-POST-LIST:END -->
 
-#### Monthly Time Spend On
+#### Weekly Time Spend On
 <!--START_SECTION:waka-->
 
 ```text
