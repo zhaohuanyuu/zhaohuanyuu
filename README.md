@@ -19,9 +19,9 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Gatsby With Pnpm](https://zhy.gatsbyjs.io/blog/gatsby-pnpm)
+- [typescript pnpm symlinks error](https://zhy.gatsbyjs.io/blog/ts-pnpm)
+- [gatsby with pnpm](https://zhy.gatsbyjs.io/blog/gatsby-pnpm)
 - [Node项目调试的几种方式](https://zhy.gatsbyjs.io/blog/node-debug)
-- [SSG、CSG、SSR、DSG渲染方式区别和优缺点](https://zhy.gatsbyjs.io/blog/site-rendering)
 <!-- BLOG-POST-LIST:END -->
 
 #### Weekly Time Spend On
