@@ -5,8 +5,8 @@
 ### Hi there 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true&theme=city_lights">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&hide_title=true&count_private=true&show_icons=true>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true&theme=city_lights&hide_title=true">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true&hide_title=true">
 </picture>
 
 <p style="width:45%">I'm a frontend developer.interested in engineering, graphics, frameworks...</p>
