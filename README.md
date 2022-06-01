@@ -9,11 +9,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true&hide_title=true">
 </picture>
 
-<p style="width:45%">I'm a frontend developer.interested in engineering, graphics, frameworks...</p>
+<p align="left" style="width:40%">I'm a frontend developer.interested in engineering, graphics, frameworks...</p>
 
 #### Languages And Tools
 
-<img height="20" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,gatsby,materialui,graphql,nestjs,electron,flutter" />
+<img align="left" height="20" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,gatsby,materialui,graphql,nestjs,electron,flutter" />
 
 </br>
 
