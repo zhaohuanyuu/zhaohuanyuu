@@ -9,7 +9,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true&hide_title=true">
 </picture>
 
-<p align="left" style="width:40%">I'm a frontend developer.interested in engineering, graphics, frameworks...</p>
+<p align="left" style="width:40%">I'm a frontend development engineer.interested in engineering, graphics, frameworks...</p>
 
 #### Languages And Tools
 
