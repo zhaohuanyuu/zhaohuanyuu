@@ -19,9 +19,9 @@
 
 #### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [webrtc设备管理及采集](https://zhy.gatsbyjs.io/blog/webrtc-device)
+- [webrtc基础概念](https://zhy.gatsbyjs.io/blog/webrtc-basic)
 - [typescript pnpm symlinks error](https://zhy.gatsbyjs.io/blog/ts-pnpm)
-- [gatsby with pnpm](https://zhy.gatsbyjs.io/blog/gatsby-pnpm)
-- [Node项目调试的几种方式](https://zhy.gatsbyjs.io/blog/node-debug)
 <!-- BLOG-POST-LIST:END -->
 
 #### Weekly Time Spend On
