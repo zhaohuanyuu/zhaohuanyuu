@@ -19,9 +19,9 @@
 
 #### Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
-- [webrtc-stun/turn服务相关api配置](https://zhy.gatsbyjs.io/blog/webrtcServer)
-- [webrtc-RTCPeerConnection](https://zhy.gatsbyjs.io/blog/webrtc-rtcp)
-- [webrtc-协议与连接](https://zhy.gatsbyjs.io/blog/webrtc-protocal)
+- [monorepo解决方案](https://zhy.gatsbyjs.io/blog/monorepos)
+- [webrtc-Data Channel](https://zhy.gatsbyjs.io/blog/webrtc-dc)
+- [webrtc-RTP Media](https://zhy.gatsbyjs.io/blog/webrtc-RtpMedia)
 <!-- BLOG-POST-LIST:END -->
 
 #### Weekly Time Spend On ⏳
