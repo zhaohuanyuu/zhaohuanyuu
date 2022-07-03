@@ -20,8 +20,8 @@
 #### Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
 - [monorepo解决方案](https://zhy.gatsbyjs.io/blog/monorepos)
+- [typescript-速查笔记](https://zhy.gatsbyjs.io/blog/ts-note)
 - [webrtc-Data Channel](https://zhy.gatsbyjs.io/blog/webrtc-dc)
-- [webrtc-RTP Media](https://zhy.gatsbyjs.io/blog/webrtc-RtpMedia)
 <!-- BLOG-POST-LIST:END -->
 
 #### Weekly Time Spend On ⏳
