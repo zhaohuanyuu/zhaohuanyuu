@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [typescript-速查笔记](https://zhy.gatsbyjs.io/blog/ts-note)
 - [monorepo解决方案](https://zhy.gatsbyjs.io/blog/monorepos)
-- [webrtc-Data Channel](https://zhy.gatsbyjs.io/blog/webrtc-dc)
+- [webrtc-开发记录](https://zhy.gatsbyjs.io/blog/webrtc-note)
 <!-- BLOG-POST-LIST:END -->
 
 #### Weekly Time Spend On ⏳
