@@ -19,7 +19,7 @@
 
 #### Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL-学习笔记](https://zhy.gatsbyjs.io/blog/graphql-learning)
+- [GraphQL-howtographql学习笔记](https://zhy.gatsbyjs.io/blog/graphql-learning)
 - [body-parser处理application/x-www-urlencoded参数解析错误踩坑](https://zhy.gatsbyjs.io/post/body-parser)
 - [typescript-速查笔记](https://zhy.gatsbyjs.io/post/ts-note)
 <!-- BLOG-POST-LIST:END -->
