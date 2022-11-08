@@ -14,5 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "5"
+          max_post_count: "4"
           feed_list: "https://zhy.gatsbyjs.io/rss.xml"
