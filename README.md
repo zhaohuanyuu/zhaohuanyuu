@@ -23,7 +23,6 @@
 - [howtographql-advance](https://zhy.gatsbyjs.io/blog/graphql-advance)
 - [howtographql-basic](https://zhy.gatsbyjs.io/blog/graphql-basic)
 - [body-parser处理application/x-www-urlencoded参数解析错误踩坑](https://zhy.gatsbyjs.io/post/body-parser)
-- [typescript-速查笔记](https://zhy.gatsbyjs.io/post/ts-note)
 <!-- BLOG-POST-LIST:END -->
 
 #### Weekly Time Spend On ⏳
