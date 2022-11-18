@@ -29,8 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown         3 mins          ████████████████████████▒   96.92 %
-GitIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
