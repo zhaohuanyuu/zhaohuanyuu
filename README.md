@@ -19,10 +19,10 @@
 
 #### Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [vanilla-extract/css-使用用途及范式总结](https://zhy.gatsbyjs.io/blog/vanilla-usage)
+- [vanilla-extract/css-在gatsby改造期间问题记录](https://zhy.gatsbyjs.io/blog/vanilla-order-conflict)
 - [Vite-不同场景下的集成及配置方式](https://zhy.gatsbyjs.io/blog/vite-integrations)
 - [《WebGL权威指南》学习笔记-基础](https://zhy.gatsbyjs.io/blog/webgl-basic)
-- [monorepo解决方案](https://zhy.gatsbyjs.io/post/monorepos)
-- [howtographql-advance conception](https://zhy.gatsbyjs.io/blog/graphql-advance)
 <!-- BLOG-POST-LIST:END -->
 
 #### Weekly Time Spend On ⏳
