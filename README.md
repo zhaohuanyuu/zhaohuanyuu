@@ -29,12 +29,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       14 hrs 52 mins  █████████▓░░░░░░░░░░░░░░░   38.57 %
-TypeScript       14 hrs 20 mins  █████████▒░░░░░░░░░░░░░░░   37.18 %
-HTML             3 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-Vim Script       2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-MDX              1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Markdown         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+TypeScript       16 hrs 46 mins  ██████████▒░░░░░░░░░░░░░░   41.72 %
+JavaScript       15 hrs 28 mins  █████████▓░░░░░░░░░░░░░░░   38.50 %
+HTML             3 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Vim Script       2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Markdown         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+textmate         14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
