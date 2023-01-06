@@ -13,7 +13,7 @@
 
 #### Languages And Tools ✨
 
-<img align="left" height="20" src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,svelte,gatsby,materialui,graphql,nestjs,electron,flutter" />
+<img align="left" height="20" src="https://skillicons.dev/icons?i=js,ts,nodejs,rust,react,vue,svelte,gatsby,materialui,graphql,nestjs,electron,flutter" />
 
 </br>
 
