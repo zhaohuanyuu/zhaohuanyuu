@@ -20,10 +20,10 @@
 #### Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
 - [single-spa-学习笔记](https://auu.zone/post/single-spa-note)
+- [svg学习笔记](https://auu.zone/post/svg-note)
+- [monorepo](https://auu.zone/post/monorepo)
 - [typescript-常见范式记录](https://auu.zone/post/ts-pattern)
 - [qiankun下webpack使用webworker问题记录](https://auu.zone/post/wp-worker)
-- [Gatsby-综合bundler优化、更换讨论的记录和思考](https://auu.zone/post/gatsby-bundler)
-- [vanilla-extract/css-使用用途及范式总结](https://auu.zone/post/vanilla-usage)
 <!-- BLOG-POST-LIST:END -->
 
 #### Weekly Time Spend On ⏳
