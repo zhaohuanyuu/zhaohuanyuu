@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [single-spa-学习笔记](https://auu.zone/post/single-spa-note)
 - [svg学习笔记](https://auu.zone/post/svg-note)
-- [monorepo](https://auu.zone/post/monorepo)
+- [monorepo-不同包管理器workspace的使用方法](https://auu.zone/post/workspace)
 - [typescript-常见范式记录](https://auu.zone/post/ts-pattern)
 - [qiankun下webpack使用webworker问题记录](https://auu.zone/post/wp-worker)
 <!-- BLOG-POST-LIST:END -->
