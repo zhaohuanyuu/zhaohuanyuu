@@ -19,7 +19,7 @@
 
 #### Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
-- [single-spa-微前端概念](https://auu.zone/post/single-spa-note)
+- [single-spa-微前端种类](https://auu.zone/post/single-spa-note)
 - [svg学习笔记](https://auu.zone/post/svg-note)
 - [monorepo-不同包管理器workspace的使用方法](https://auu.zone/post/workspace)
 - [typescript-常见范式记录](https://auu.zone/post/ts-pattern)
