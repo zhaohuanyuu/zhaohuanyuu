@@ -19,11 +19,11 @@
 
 #### Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [vite-@vitejs/plugin-legacy源码阅读](https://auu.zone/post/vite-legacy)
 - [single-spa-微前端种类](https://auu.zone/post/single-spa-note)
 - [svg学习笔记](https://auu.zone/post/svg-note)
 - [monorepo-不同包管理器workspace的使用方法](https://auu.zone/post/workspace)
 - [typescript-常见范式记录](https://auu.zone/post/ts-pattern)
-- [qiankun下webpack使用webworker问题记录](https://auu.zone/post/wp-worker)
 <!-- BLOG-POST-LIST:END -->
 
 #### Weekly Time Spend On ⏳
