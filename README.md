@@ -19,11 +19,11 @@
 
 #### Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [微前端-module-federation和single-spa的特点](https://auu.zone/post/micro-fe)
+- [vite-本地开发服务](https://auu.zone/post/vite-server)
+- [vite-生产构建流程](https://auu.zone/post/vite-build)
 - [vite-@vitejs/plugin-legacy源码阅读](https://auu.zone/post/vite-legacy)
 - [single-spa-微前端种类](https://auu.zone/post/single-spa-note)
-- [svg学习笔记](https://auu.zone/post/svg-note)
-- [monorepo-不同包管理器workspace的使用方法](https://auu.zone/post/workspace)
-- [typescript-常见范式记录](https://auu.zone/post/ts-pattern)
 <!-- BLOG-POST-LIST:END -->
 
 #### Weekly Time Spend On ⏳
