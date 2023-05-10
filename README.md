@@ -30,11 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-MDX          10 hrs 13 mins  ███████▓░░░░░░░░░░░░░░░░░   31.02 %
-TypeScript   9 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   29.34 %
-Svelte       6 hrs 49 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
-JavaScript   3 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-HTML         2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+MDX              9 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
+TypeScript       8 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
+JavaScript       7 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
+Svelte           5 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+HTML             2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
 ```
 
 <!--END_SECTION:waka-->
