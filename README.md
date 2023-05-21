@@ -23,7 +23,7 @@
 - [vite-本地开发服务](https://auu.zone/post/vite-server)
 - [vite-生产构建流程](https://auu.zone/post/vite-build)
 - [vite-@vitejs/plugin-legacy源码阅读](https://auu.zone/post/vite-legacy)
-- [微前端-module-federation和single-spa的特点](https://auu.zone/post/micro-fe)
+- [Vite-不同场景下的集成及配置方式](https://auu.zone/post/vite-integrations)
 <!-- BLOG-POST-LIST:END -->
 
 #### Weekly Time Spend On ⏳
