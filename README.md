@@ -29,12 +29,12 @@
 #### Weekly Time Spend On ⏳
 <!--START_SECTION:waka-->
 
-```text
-JavaScript            23 hrs 54 mins  █████████████░░░░░░░░░░░░   52.54 %
-WXML                  4 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-MDX                   4 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-TypeScript            3 hrs 19 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-WXSS                  2 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+```txt
+JavaScript            26 hrs 5 mins   ███████████████░░░░░░░░░░   59.68 %
+WXML                  3 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+HTML                  2 hrs 49 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+TypeScript            2 hrs 30 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+MDX                   1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
 ```
 
 <!--END_SECTION:waka-->
