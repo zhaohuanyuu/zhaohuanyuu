@@ -19,11 +19,11 @@
 
 #### Latest Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Nestjs-学习笔记](https://auu.zone/post/single-spa-note)
 - [前端工程化学习笔记](https://auu.zone/post/fe-engineering)
 - [rollup-插件钩子及使用场景](https://auu.zone/post/rollup-plugin)
 - [vite-本地开发服务](https://auu.zone/post/vite-server)
 - [vite-生产构建流程](https://auu.zone/post/vite-build)
-- [vite-@vitejs/plugin-legacy源码阅读](https://auu.zone/post/vite-legacy)
 <!-- BLOG-POST-LIST:END -->
 
 #### Weekly Time Spend On ⏳
