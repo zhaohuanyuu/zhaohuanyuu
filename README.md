@@ -30,11 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-MDX              6 hrs 47 mins   ███████████████████████▓░   95.25 %
-JavaScript       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-TypeScript       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-ActionScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+MDX              4 hrs 48 mins   ███████████████████████░░   92.22 %
+TypeScript       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+JavaScript       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+ActionScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
