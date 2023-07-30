@@ -30,8 +30,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-MDX          3 hrs 50 mins   ██████████████████████▓░░   90.27 %
-TypeScript   24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+MDX          2 hrs 42 mins   ██████████████████████▓░░   90.71 %
+TypeScript   16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
 ```
 
 <!--END_SECTION:waka-->
