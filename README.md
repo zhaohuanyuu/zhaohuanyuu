@@ -21,9 +21,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Nestjs-学习笔记](https://auu.zone/post/single-spa-note)
 - [前端工程化-学习笔记](https://auu.zone/post/fe-engineering)
+- [《前端技术架构与工程》- 读书笔记](https://auu.zone/post/fe-architecture)
 - [《前端工程化:体系设计与实践》- 读书笔记](https://auu.zone/post/fe-system)
 - [《Front-End Tooling》- 读书笔记](https://auu.zone/post/fe-tooling)
-- [rollup-插件钩子及使用场景](https://auu.zone/post/rollup-plugin)
 <!-- BLOG-POST-LIST:END -->
 
 #### Weekly Time Spend On ⏳
