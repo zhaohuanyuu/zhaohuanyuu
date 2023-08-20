@@ -21,8 +21,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Nestjs-学习笔记](https://auu.zone/post/single-spa-note)
 - [前端工程化-学习笔记](https://auu.zone/post/fe-engineering)
-- [《前端技术架构与工程》- 读书笔记](https://auu.zone/post/fe-architecture)
 - [《前端工程化:体系设计与实践》- 读书笔记](https://auu.zone/post/fe-system)
+- [《从零开始搭建前端监控平台》-学习笔记](https://auu.zone/post/fe-monitor)
 - [《Front-End Tooling》- 读书笔记](https://auu.zone/post/fe-tooling)
 <!-- BLOG-POST-LIST:END -->
 
