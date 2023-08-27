@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-MDX   1 hr 3 mins     █████████████████████████   100.00 %
+MDX   58 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
