@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-MySQL   1 min           █████████████████████████   100.00 %
+MySQL   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
