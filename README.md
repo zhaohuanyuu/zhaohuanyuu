@@ -13,7 +13,7 @@
 
 #### Languages And Tools ✨
 
-<img align="left" height="20" src="https://skillicons.dev/icons?i=js,ts,nodejs,rust,react,solidjs,vue,gatsby,astro,nextjs" />
+<img align="left" height="20" src="https://skillicons.dev/icons?i=js,ts,rust,nodejs,react,solidjs,vue,gatsby,astro,nextjs" />
 
 </br>
 
