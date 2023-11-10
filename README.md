@@ -17,7 +17,7 @@
 
 </br>
 
-#### Latest Blog Posts <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Megaphone.png" alt="Megaphone" width="22" height="22" />
+#### Latest Blog Posts <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Nib.png" alt="Black Nib" width="22" height="22" />
 <!-- BLOG-POST-LIST:START -->
 - [Gatsby迁移Netlify记录](https://auu.zone/post/cloud-unit)
 - [React源码学习笔记](https://auu.zone/post/react-source)
@@ -26,7 +26,7 @@
 - [rollup-插件钩子及使用场景](https://auu.zone/post/rollup-plugin)
 <!-- BLOG-POST-LIST:END -->
 
-#### Weekly Time Spend On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sponge.png" alt="Sponge" width="22" height="22" />
+#### Weekly Time Spend On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Tear-Off%20Calendar.png" alt="Tear-Off Calendar" width="22" height="22" />
 <!--START_SECTION:waka-->
 
 ```txt
