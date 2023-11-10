@@ -2,7 +2,7 @@
 **zhaohuanyuu/zhaohuanyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat.png" alt="Grinning Cat" width="16" height="16" />
+### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="22" height="22" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zhaohuanyuu&count_private=true&show_icons=true&theme=city_lights&hide_title=true">
@@ -11,13 +11,13 @@
 
 <p align="left" style="width:40%">I'm a frontend development engineer.interested in engineering, graphics, frameworks...</p>
 
-#### Languages And Tools ✨
+#### Languages And Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="22" height="22" />
 
 <img align="left" height="20" src="https://skillicons.dev/icons?i=js,ts,rust,nodejs,react,solidjs,vue,gatsby,astro,nextjs" />
 
 </br>
 
-#### Latest Blog Posts 📚
+#### Latest Blog Posts <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Megaphone.png" alt="Megaphone" width="22" height="22" />
 <!-- BLOG-POST-LIST:START -->
 - [Gatsby迁移Netlify记录](https://auu.zone/post/cloud-unit)
 - [React源码学习笔记](https://auu.zone/post/react-source)
@@ -26,7 +26,7 @@
 - [rollup-插件钩子及使用场景](https://auu.zone/post/rollup-plugin)
 <!-- BLOG-POST-LIST:END -->
 
-#### Weekly Time Spend On ⏳
+#### Weekly Time Spend On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sponge.png" alt="Sponge" width="22" height="22" />
 <!--START_SECTION:waka-->
 
 ```txt
