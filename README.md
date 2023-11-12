@@ -19,8 +19,8 @@
 
 #### Latest Blog Posts <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="22" height="22" />
 <!-- BLOG-POST-LIST:START -->
+- [《React设计原理》- 读书笔记](https://auu.zone/post/react-design)
 - [Gatsby迁移Netlify记录](https://auu.zone/post/cloud-unit)
-- [React源码学习笔记](https://auu.zone/post/react-source)
 - [OpenAI api-学习笔记](https://auu.zone/post/openai-note)
 - [Nestjs-学习笔记](https://auu.zone/post/nest-basic)
 - [rollup-插件钩子及使用场景](https://auu.zone/post/rollup-plugin)
