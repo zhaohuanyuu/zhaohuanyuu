@@ -22,8 +22,8 @@
 - [module-federation](https://auu.zone/post/module-federation)
 - [《React设计原理》- 读书笔记](https://auu.zone/post/react-design)
 - [Gatsby迁移Netlify记录](https://auu.zone/post/cloud-unit)
+- [Electron-handbook](https://auu.zone/post/electron-handbook)
 - [OpenAI api-学习笔记](https://auu.zone/post/openai-note)
-- [Nestjs-学习笔记](https://auu.zone/post/nest-basic)
 <!-- BLOG-POST-LIST:END -->
 
 #### Weekly Time Spend On <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="Calendar" width="22" height="22" />
